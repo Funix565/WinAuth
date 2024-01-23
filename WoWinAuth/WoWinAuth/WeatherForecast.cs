@@ -1,4 +1,4 @@
-namespace WithWinAuth
+namespace WoWinAuth
 {
     public class WeatherForecast
     {
